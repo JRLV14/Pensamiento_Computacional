@@ -1,7 +1,7 @@
 def factorial (n):
     """Calcula el factorial de n
     n int > 0
-    returs m!
+    return m!
     """
     if n == 1:
         return 1
