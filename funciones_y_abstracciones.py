@@ -33,7 +33,7 @@ def enumeracion_exahustiva():
 
 
 objetivo = int(input("Escoge un numero entero: "))
-menu = """Que metodo te gustaria usar para econtrar la raiz de tu numero:
+menu = """Que metodo usaremos para encontrar la raiz de tu numero:
 
 1 - Metodo Binario
 2 - Enumeracion matematica 
